@@ -134,9 +134,7 @@ nav button#menuButton{
 /*---------------------- SKILLS ---------------*/
 
 .skills{
-
     padding: 110px 85px 0;
-    margin-bottom: 900px;
 }
 
 .skills h3,
@@ -195,3 +193,7 @@ nav button#menuButton{
     line-height: 22px;
     color: #1c1e53;
 }
+
+/* -----------About------------ */
+
+
